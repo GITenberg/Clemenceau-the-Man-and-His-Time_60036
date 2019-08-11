@@ -1,0 +1,28 @@
+_repo: Clemenceau-the-Man-and-His-Time_60036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hyndman, H. M. (Henry Mayers)
+    alias: Hyndman, Henry Mayers
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '50755'
+    url: http://www.gutenberg.org/2009/agents/50755
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Hyndman
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60036'
+  lccn: '19006154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Politics and government -- 1870-1940'
+- !lcc 'DC'
+- !lcsh 'Clemenceau, Georges, 1841-1929'
+- GITenberg
+title: Clemenceau, the Man and His Time
+url: http://www.gutenberg.org/ebooks/60036
